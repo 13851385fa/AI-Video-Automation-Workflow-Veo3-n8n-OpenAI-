@@ -35,7 +35,7 @@ The primary file for this project is the n8n workflow configuration.
 ### 1. Download Workflow File
 
 The configuration file is located here:
-➡️ `ai_video_workflow.json`
+➡️ `Automate_video_creation_with_Veo3_and_auto_post_to_Instagram.json`
 
 ### 2. Setting Up the n8n Environment
 
