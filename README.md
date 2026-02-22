@@ -48,7 +48,7 @@ To successfully run this workflow, you need an active n8n instance (self-hosted 
 *   **Social Media Platform Credentials** (e.g., YouTube Data API access).
 
 **Installation Steps:**
-1.  Import `ai_video_workflow.json` into your n8n editor via **Settings > Workflow Management > Import**.
+1.  Import `Automate_video_creation_with_Veo3_and_auto_post_to_Instagram.json` into your n8n editor via **Settings > Workflow Management > Import**.
 2.  Navigate to the **Credentials** section.
 3.  Update the required API keys for OpenAI, Veo3, and Social Media platforms in the corresponding credential fields.
 4.  Activate the workflow.
