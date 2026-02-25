@@ -57,5 +57,5 @@ To successfully run this workflow, you need an active n8n instance (self-hosted 
 
 
 
-*© 2026 [fatemeh hassanzadeh]. This project is licensed under the MIT License.*
+2026 [fatemeh hassanzadeh]. 
 
